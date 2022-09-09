@@ -1,5 +1,6 @@
 # toDoApp
-<img width="520" alt="Screen Shot 2022-09-09 at 20 46 51" src="https://user-images.githubusercontent.com/61031852/189413045-d073e466-e304-4dc9-9320-4fe42d3f0abf.png">
-<img width="520" alt="Screen Shot 2022-09-09 at 20 46 55" src="https://user-images.githubusercontent.com/61031852/189413052-56416fe2-1e4d-4854-8622-732b4798a6ed.png">
-<img width="520" alt="Screen Shot 2022-09-09 at 20 46 59" src="https://user-images.githubusercontent.com/61031852/189413080-3ad6e353-1914-428a-9882-c32c10731f2a.png">
-<img width="520" alt="Screen Shot 2022-09-09 at 20 47 02" src="https://user-images.githubusercontent.com/61031852/189413090-66bb6d8f-4d8b-4263-a28e-b48546411a58.png">
+<img width="476" alt="Screen Shot 2022-09-09 at 20 50 47" src="https://user-images.githubusercontent.com/61031852/189413805-d62cdacc-e6db-465a-b796-e912b32ce0a7.png">
+![Uploading Screen Shot
+<img width="520" alt="Screen Shot 2022-09-09 at 20 51 07" src="https://user-images.githubusercontent.com/61031852/189413856-356f2fb9-0b58-43bc-a832-0ccb176ec8f4.png">
+<img width="520" alt="Screen Shot 2022-09-09 at 20 51 30" src="https://user-images.githubusercontent.com/61031852/189413869-5be3bc4c-a5b6-4148-90e1-e64a4c676037.png">
+ 2022-09-09 at 20.51.02.png…]()
